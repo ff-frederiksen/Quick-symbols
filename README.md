@@ -18,3 +18,7 @@ or
 
 Bind a key to execute script in your config file such as your .i3/config 
 e.g. `bindsym $mod+shift+p exec --no-startup-id ~/PATH/TO/SCRIPT/symbols`
+
+Dmenu will then pop up with a search field, type in the desired symbol and hit enter. The symbol will then be added to both primary and clipboard and is then ready to be pasted.
+
+
