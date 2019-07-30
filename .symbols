@@ -1,171 +1,172 @@
-ħ 0127 reduced Planck constant
-ƛ 019B reduced wavelength
-Ψ 03A8 Greek capital letter psi
-λ 03BB Greek small letter lambda
-ν 03BD Greek small letter nu
-ψ 03C8 Greek small letter psi
-ω 03C9 Greek small letter omega
-∝ 221D prop, propto, Proportional, vprop, varpropto, proportional to
-∣ 2223 divides
-∤ 2224 does not divide
-≃ 2243 asymptotically equal to
-≄ 2244 not asymptotically equal to
-≅ 2245 approximately equal to
-≆ 2246 approximately but not actually equal to
-≇ 2247 neither approximately nor actually equal to
-≈ 2248 almost equal to
-≉ 2249 not almost equal to
-≜ 225C trie, triangleq, delta equal to
-≝ 225D equal to by definition
-≟ 225F equest, checked equal to
-≠ 2260 ne, NotEqual, not equal to
-≡ 2261 equiv, Congruent, equivalent to
-≤ 2264 less-than or equal to
-≥ 2265 greater-than or equal to
-≪ 226A much less than
-≫ 226B much greater than
-⊂ 2282 subset, included in, proper subset
-⊃ 2283 superset, includes, proper superset
-⊆ 2286 subset of or equal to
-⊇ 2287 superset or equal to
-⊄ 2284 notin set
-∩ 2229 intersection
-∪ 222A union
-∈ 2208 isin, isinv, Element, in, element of (large symbol)
-∊ 220A element of (small symbol)
-∉ 2209 notin, NotElement, notinva, not element of
-∋ 220B niv, ReverseElement, ni, SuchThat, contains as member (large symbol)
-∍ 220D contains as member (small symbol)
-∌ 220C notni, notniva, NotReverseElement, does not contain as member
-∅ 2205 empty, emptyset, emptyv, varnothing, empty set
-√ 221A radic, Sqrt, radical, square root
-∛ 221B cube root
-∜ 221C fourth root
-± 00B1 plus or minus
-∓ 2213 minus or plus
-′ 2032 prime, derivative
-″ 2033 Prime, double prime
-‴ 2034 tprime, triple prime
-∏ 220F N-ary product
-∑ 2211 N-ary summation
-✓ 2713 check mark
-✗ 2717 cross mark
-‒ 2012 figure dash
-– 2013 en dash
-— 2014 em dash
-― 2015 quotation dash
-⸺ 2E3A two-em dash
-⸻ 2E3B three-em dash
-〃 3003 ditto
-§ 00A7 section
-¶ 00B6 paragraph
-· 00B7 interpunct, middle dot
-‘ 2018 left single quote
-’ 2019 right single quote, apostrophe
-‚ 201A low-9 single quote
-“ 201C left double quote
-” 201D right double quote
-„ 201E low-9 double quote
-† 2020 dagger
-‡ 2021 double dagger
-• 2022 bullet
-… 2026 ellipsis
-‽ 203D interrobang
-⁂ 2042 asterism
-← 2190 left arrow
-↑ 2191 up arrow
-→ 2192 right arrow
-↓ 2193 down arrow
-☐ 2610 ballot box
-☑ 2611 ballot box with check
-☒ 2612 ballot box with X
-☛ 261B black right pointing finger
-☞ 261E white right pointing finger
-⚜ 269C fleur-de-lys
-★ 2605 starf, bigstar, black star
-☆ 2606 white star
-□ 25A1 square
-⛤ 26E4 pentagram
-∠ 2220 ang, angle
-∡ 2221 angmsd, measured angle
-∢ 2222 spherical angle
-⟂ 27C2 perpendicul
-¬ 00AC Logical NOT
-∧ 2227 Logical AND
-∨ 2228 Logical OR
-∎ 220E End of proof
-∴ 2234 THEREFORE , there4, therefore, Therefore
-∵ 2235 BECAUSE , becaus, because, Because
-∀ 2200 FOR ALL , forall, for all, ForAll
-∃ 2203 THERE EXISTS , exists, exist, Exists
-∄ 2204 THERE DOES NOT EXIST , nexist, nexists, NotExists
-μ 03BC Greek small letter mu
-π 03C0 Greek small letter pi
-ℂ 2102 Complex numbers
-ℍ 210D Hyperbolic plane, quaternions
-ℓ 2113 Small script letter L, litre.
-ℕ 2115 Natural numbers
-ℙ 2119 Prime numbers
-ℚ 211A Rational numbers
-ℝ 211D Real numbers
-ℤ 2124 Integers
-𝕆 1D546 Octonions
-☁ 2601 cloud
-☇ 2607 lightning
-☂ 2602 umbrella
-☔ 2614 umbrella with rain drops
-☈ 2608 thunderstorm
-☉ 2609 sun
-☼ 263C white sun with rays
-☀ 2600 black sun with rays
-☽ 263D first quarter moon
-☾ 263E last quarter moon
-☿ 263F Mercury
-♀ 2640 female sign, Venus
-♁ 2641 Earth
-♂ 2642 male sign, Mars
-♃ 2643 Jupiter
-♄ 2644 Saturn
-⛢ 26E2 Astronomical Symbol for Uranus
-♅ 2645 Astrological Symbol for Uranus
-♆ 2646 Neptune
-♇ 2647 Pluto
-⚳ 26B3 Ceres
-⚷ 26B7 Chiron
-♈ 2648 constellation Aries
-♓ 2653 constellation Pisces
-⛄ 26C4 snowman without snow (light snow)
-⛅ 26C5 sun behind cloud (partly cloudy)
-⛆ 26C6 rain
-⛇ 26C7 black snowman (heavy snow)
-⛈ 26C8 thunder cloud and rain
-❄ 2744 snowflake
-🌀 1F300 cyclone, typhoon
-🌁 1F301 foggy
-🌂 1F302 closed umbrella
-🌌 1F30C Milky Way
-🌑 1F311 new moon
-🌓 1F313 first quarter moon
-🌕 1F315 full moon
-🌗 1F317 last quarter moon
-🌙 1F319 crescent moon
-🌠 1F320 shooting star
-฿ 0E3F Baht
-₿ 20BF Bitcoin
-¢ 00A2 Cent
-¤ 00A4 Currency
-$ 0024 Dollar
-€ 20AC Euro
-₴ 20B4 Hryvnia
-₹ 20B9 Indian Rupee
-₤ 20A4 Lira
-₪ 20AA New Shekel
-₱ 20B1 Peso
-₽ 20BD Russian Ruble
-£ 00A3 Sterling (pound)
-₺ 20BA Turkish Lira
-₩ 20A9 Won
-¥ 00A5 Yen(Yuan)
+ħ reduced Planck constant
+ƛ reduced wavelength
+Ψ Greek capital letter psi
+λ Greek small letter lambda
+ν Greek small letter nu
+ψ Greek small letter psi
+ω Greek small letter omega
+∝ prop, propto, Proportional, vprop, varpropto, proportional to
+∣ divides
+∤ does not divide
+≃ asymptotically equal to
+≄ not asymptotically equal to
+≅ approximately equal to
+≆ approximately but not actually equal to
+≇ neither approximately nor actually equal to
+≈ almost equal to
+≉ not almost equal to
+≜ trie, triangleq, delta equal to
+≝ equal to by definition
+≟ equest, checked equal to
+≠ ne, NotEqual, not equal to
+≡ equiv, Congruent, equivalent to
+≤ less-than or equal to
+≥ greater-than or equal to
+≪ much less than
+≫ much greater than
+⊂ subset, included in, proper subset
+⊃ superset, includes, proper superset
+⊆ subset of or equal to
+⊇ superset or equal to
+⊄ notin set
+∩ intersection
+∪ union
+∈ isin, isinv, Element, in, element of (large symbol)
+∊ element of (small symbol)
+∉ notin, NotElement, notinva, not element of
+∋ niv, ReverseElement, ni, SuchThat, contains as member (large symbol)
+∍ contains as member (small symbol)
+∌ notni, notniva, NotReverseElement, does not contain as member
+∅ empty, emptyset, emptyv, varnothing, empty set
+√ radic, Sqrt, radical, square root
+∛ cube root
+∜ fourth root
+± plus or minus
+∓ minus or plus
+′ prime, derivative
+″ Prime, double prime
+‴ tprime, triple prime
+∏ N-ary product
+∑ N-ary summation
+✓ check mark
+✗ cross mark
+‒ figure dash
+– en dash
+— em dash
+― quotation dash
+⸺ two-em dash
+⸻ three-em dash
+〃 ditto
+§ section
+¶ paragraph
+· interpunct, middle dot
+‘ left single quote
+’ right single quote, apostrophe
+‚ low-9 single quote
+“ left double quote
+” right double quote
+„ low-9 double quote
+† dagger
+‡ double dagger
+• bullet
+… ellipsis
+‽ interrobang
+⁂ asterism
+← left arrow
+↑ up arrow
+→ right arrow
+↓ down arrow
+☐ ballot box
+☑ ballot box with check
+☒ ballot box with X
+☛ black right pointing finger
+☞ white right pointing finger
+⚜ fleur-de-lys
+★ starf, bigstar, black star
+☆ white star
+□ square
+⛤ pentagram
+∠ ang, angle
+∡ angmsd, measured angle
+∢ spherical angle
+⟂ perpendicul
+¬ Logical NOT
+∧ Logical AND
+∨ Logical OR
+∎ End of proof
+∴ THEREFORE , there4, therefore, Therefore
+∵ BECAUSE , becaus, because, Because
+∀ FOR ALL , forall, for all, ForAll
+∃ THERE EXISTS , exists, exist, Exists
+∄ THERE DOES NOT EXIST , nexist, nexists, NotExists
+μ Greek small letter mu
+π Greek small letter pi
+ℂ Complex numbers
+ℍ Hyperbolic plane, quaternions
+ℓ Small script letter L, litre.
+ℕ Natural numbers
+ℙ Prime numbers
+ℚ Rational numbers
+ℝ Real numbers
+ℤ Integers
+𝕆 Octonions
+☁ cloud
+☇ lightning
+☂ umbrella
+☔ umbrella with rain drops
+☈ thunderstorm
+☉ sun
+☼ white sun with rays
+☀ black sun with rays
+☽ first quarter moon
+☾ last quarter moon
+☿ Mercury
+♀ female sign, Venus
+♁ Earth
+♂ male sign, Mars
+♃ Jupiter
+♄ Saturn
+⛢ Astronomical Symbol for Uranus
+♅ Astrological Symbol for Uranus
+♆ Neptune
+♇ Pluto
+⚳ Ceres
+⚷ Chiron
+♈ constellation Aries
+♓ constellation Pisces
+⛄ snowman without snow (light snow)
+⛅ sun behind cloud (partly cloudy)
+⛆ rain
+⛇ black snowman (heavy snow)
+⛈ thunder cloud and rain
+❄ snowflake
+🌀 cyclone, typhoon
+🌁 foggy
+🌂 closed umbrella
+🌌 Milky Way
+🌑 new moon
+🌓 first quarter moon
+🌕 full moon
+🌗 last quarter moon
+🌙 crescent moon
+🌠 shooting star
+฿ Baht
+₿ Bitcoin
+Ξ Ethereum
+¢ Cent
+¤ Currency
+$ Dollar
+€ Euro
+₴ Hryvnia
+₹  Indian Rupee
+₤ Lira
+₪ New Shekel
+₱ Peso
+₽ Russian Ruble
+£ Sterling (pound)
+₺ Turkish Lira
+₩ Won
+¥ Yen(Yuan)
 α Alpha
 β Beta
 γ Gamma
